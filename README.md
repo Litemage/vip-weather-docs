@@ -1,3 +1,9 @@
+# This repository has moved!!!!!
+
+This repo is now available at: 
+
+[github.com/ece398-buvip/vip-weather-docs](https://github.com/ece398-buvip/vip-weather-docs)
+
 # Documentation
 
 Before woking on documentation, you must run the following in the root directory of this repository (with python installed, Windows):
